@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am jhmblundin, and I vibecode a lot. I have experience with LLM benchmarking, particularly in autonomous software developement (SWE-bench).
+
 <!--
 **jhmblundin/jhmblundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
